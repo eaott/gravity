@@ -1,4 +1,4 @@
 gravity
 =======
 
-Find bounds on gravity for watermelon drop from RLM
+Find bounds on gravity for watermelon drop from RLM.
